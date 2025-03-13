@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+
+  app:
+    name: TodoInMemoryApplication
+    maxConnections: 10
+    enableFeature: true
